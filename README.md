@@ -31,5 +31,52 @@ Due to **insufficient sponsorship**, the team **did not participate in the tourn
 🔧 **Tech Stack:**  
 **Drone Development, Battery & Propulsion Systems, eCalc.ch, Digital Radio Communication, Signal Encryption, Drone Frame Design, ArduPilot Mission Planner, Pixhawk, Odroid, Autonomous Flight, Object Detection, Target Recognition, Package Delivery**
 
+---
+
+### 📸 Project Snapshot
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_Arduino-Uno-Energy-Consumption-Optimization/blob/main/publish/2.0_Thumbnail_1.png?raw=true" 
+       alt="Arduino Uno Energy Consumption Optimization Preview 1" 
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_Arduino-Uno-Energy-Consumption-Optimization/blob/main/publish/2.0_Thumbnail_2.png?raw=true" 
+       alt="Arduino Uno Energy Consumption Optimization Preview 2" 
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_Arduino-Uno-Energy-Consumption-Optimization/blob/main/publish/2.0_Thumbnail_3.png?raw=true" 
+       alt="Arduino Uno Energy Consumption Optimization Preview 3" 
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_Arduino-Uno-Energy-Consumption-Optimization/blob/main/publish/2.0_Thumbnail_4.png?raw=true" 
+       alt="Arduino Uno Energy Consumption Optimization Preview 3" 
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_Arduino-Uno-Energy-Consumption-Optimization/blob/main/publish/2.0_Thumbnail_5.png?raw=true" 
+       alt="Arduino Uno Energy Consumption Optimization Preview 3" 
+       width="640" 
+       height="1000">
+</p>
+
+---
+
+### 🎥 Video Demonstration
+
+Not available.
+
+---
+
 📣 **Hashtags:**  
 \# #**DroneDevelopment** #**UAV** #**AutonomousSystems** #**PropulsionDesign** #**BatterySystems** #**RadioCommunication** #**SignalEncryption** #**FrameDesign** #**ArduPilot** #**Pixhawk** #**Odroid** #**SmartDroneChallenge** #**TeamLead** #**AerospaceEngineering** #**AutonomousFlight** #**ObjectDetection** #**PackageDelivery**
